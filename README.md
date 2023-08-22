@@ -18,7 +18,7 @@ ends after 10 rounds, displaying a winner.
 ## Requirements
 To run the Rock-Paper-Scissors game in SwiftUI, it is necessary to have 
 Xcode installed on a Mac with the latest operating system. The project was 
-developed using Xcode 14.2 and SwiftUI 5.
+developed using Xcode 14.3.1 and SwiftUI 5.
 
 ## Installation
 To install the game, simply clone the repository and open the project in 
