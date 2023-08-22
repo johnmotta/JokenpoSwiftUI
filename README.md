@@ -1,5 +1,3 @@
-# JokenpoSwiftUI
-
 # Rock-Paper-Scissors Game in SwiftUI
 This is a project developed as a knowledge test in SwiftUI, using the 
 technique of test-driven development (TDD). The goal was to create a 
