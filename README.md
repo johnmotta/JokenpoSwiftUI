@@ -8,7 +8,7 @@ programming, the use of SwiftUI, and TDD.
 
 ## How to play?
 <img 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY5ZWUzMzZhODAyODQ2MzJlMjUwZTE0ZjEwNzVjYjE5YzA0MjU0YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/953JauB1iuCyq7CFKt/giphy.gif" 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlqdnRwajFhZHl2c3pwNjBnb2phOWNka2UxaHZxc3V6dGtvZ3BwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rosUQZf1iYyAAf87gX/giphy.gif" 
 width="200" align="right">
 The game allows you to play against the machine, selecting your move for 
 each round and seeing the result immediately. The available moves are 
