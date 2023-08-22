@@ -34,10 +34,14 @@ class JokenpoModel {
     }
     
     func checkEndGame(rounds: Int) -> Bool {
-        if rounds == 10 {
-            return true
+        var end = false
+        if rounds >= 10 {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 1) {
+            }
+            end = true
+            return end
         } else {
-            return false
+            return end
         }
     }
     

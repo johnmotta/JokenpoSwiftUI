@@ -24,7 +24,7 @@ struct ScoreBoardView: View {
                 Spacer()
             }
             Spacer()
-            Text(viewModel.gameOver() ? "End Game." : viewModel.showMachineMove())
+            Text(viewModel.gameOver() ? "[🪨-📃-✂️]" : viewModel.showMachineMove())
                 .modifier(CustomTextStyle())
                 
             Spacer()
