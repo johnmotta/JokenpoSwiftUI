@@ -17,14 +17,7 @@ struct JokenpoView: View {
                 }
                 
                 VStack {
-                    Spacer()
                     ScoreBoardView()
-                    Spacer()
-                    Spacer()
-                    Spacer()
-                }
-                VStack {
-                    ChooseRockPaperScissorsView()
                 }
             }
             .navigationTitle("Jokenpô")

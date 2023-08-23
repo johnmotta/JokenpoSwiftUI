@@ -6,8 +6,7 @@ struct ScoreBoardView: View {
     @EnvironmentObject var viewModel: JokenpoObservable
     
     var body: some View {
-        VStack {
-            Spacer()
+        VStack(spacing: 100) {
             HStack {
                 Spacer()
                 
@@ -23,11 +22,10 @@ struct ScoreBoardView: View {
                     .modifier(CustomTextStyle())
                 Spacer()
             }
-            Spacer()
             Text(viewModel.gameOver() ? "[🪨-📃-✂️]" : viewModel.showMachineMove())
                 .modifier(CustomTextStyle())
                 
-            Spacer()
+            ChooseRockPaperScissorsView()
         }
     }
 }
