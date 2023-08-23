@@ -1,5 +1,3 @@
-# JokenpoSwiftUI
-
 # Rock-Paper-Scissors Game in SwiftUI
 This is a project developed as a knowledge test in SwiftUI, using the 
 technique of test-driven development (TDD). The goal was to create a 
@@ -8,7 +6,7 @@ programming, the use of SwiftUI, and TDD.
 
 ## How to play?
 <img 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlqdnRwajFhZHl2c3pwNjBnb2phOWNka2UxaHZxc3V6dGtvZ3BwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rosUQZf1iYyAAf87gX/giphy.gif" 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg4aWN3NXBhd3Y2YzQ0MzU4bnQycWNtYzFoNHY5bDI3a254cW5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UI3b3hX4JOe0lQh4BW/giphy.gif" 
 width="200" align="right">
 The game allows you to play against the machine, selecting your move for 
 each round and seeing the result immediately. The available moves are 
