@@ -7,6 +7,7 @@ struct JokenpoSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
             JokenpoView()
+                .environmentObject(JokenpoObservable())
         }
     }
 }
