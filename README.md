@@ -1,28 +1,17 @@
-# Rock-Paper-Scissors Game in SwiftUI
-This is a project developed as a knowledge test in SwiftUI, using the 
-technique of test-driven development (TDD). The goal was to create a 
-functional Rock-Paper-Scissors game to demonstrate skills in Swift 
-programming, the use of SwiftUI, and TDD.
+# Jogo Pedra-Papel-Tesoura em SwiftUI
+Este é um projeto desenvolvido como um teste de conhecimento em SwiftUI, utilizando a técnica de desenvolvimento orientado a testes (TDD). O objetivo era criar um jogo funcional de Pedra-Papel-Tesoura para demonstrar habilidades em programação Swift, uso do SwiftUI e TDD.
 
-## How to play?
+## Como jogar?
 <img 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg4aWN3NXBhd3Y2YzQ0MzU4bnQycWNtYzFoNHY5bDI3a254cW5iNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UI3b3hX4JOe0lQh4BW/giphy.gif" 
 width="200" align="right">
-The game allows you to play against the machine, selecting your move for 
-each round and seeing the result immediately. The available moves are 
-rock, paper, or scissors. The game has a point counter for each player and 
-ends after 10 rounds, displaying a winner.
+O jogo permite que você jogue contra a máquina, selecionando sua jogada a cada rodada e vendo o resultado imediatamente. As opções de jogada são pedra, papel ou tesoura. O jogo possui um contador de pontos para cada jogador e termina após 10 rodadas, exibindo um vencedor.
 
-## Requirements
-To run the Rock-Paper-Scissors game in SwiftUI, it is necessary to have 
-Xcode installed on a Mac with the latest operating system. The project was 
-developed using Xcode 14.3.1 and SwiftUI 5.
+## Requisitos
+Para executar o jogo Pedra-Papel-Tesoura em SwiftUI, é necessário ter o Xcode instalado em um Mac com o sistema operacional mais recente. O projeto foi desenvolvido usando Xcode 14.3.1 e SwiftUI 5.
 
-## Installation
-To install the game, simply clone the repository and open the project in 
-Xcode. No external dependencies are required.
+## Instalação
+Para instalar o jogo, basta clonar o repositório e abrir o projeto no Xcode. Não são necessárias dependências externas.
 
-## Contributions
-This project was developed as a knowledge test and is not being actively 
-maintained. Contributions are not expected at this time.
-
+## Contribuições
+Este projeto foi desenvolvido como um teste de conhecimento e não está sendo mantido ativamente. Não são esperadas contribuições neste momento.
